@@ -1,0 +1,2 @@
+# BugBountyLesson
+BugBountyで初報告するまで勉強内容をREADMEにアウトプットするリポジトリ
